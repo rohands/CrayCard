@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_my_coupons"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="My Coupons" />
+        <item
+            android:id="@+id/nav_gift_coupons"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gift Coupons" />
+        <item
+            android:id="@+id/nav_wallet"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Wallet" />
+    </group>
+</menu>
